@@ -1,0 +1,3 @@
+insert into PERSON (username, fullname, email, password) values ('yana', 'yana orehina', 'yana@phystech.edu', '123456'), ('oleg', 'oleg grach', 'oleg@phystech.edu', 'oleg123'), ('olga', 'olga grach', 'olga@phystech.edu', 'olga123')
+
+insert into PRESENT_CARD (clientId, description, price, link) values ('1', 'pillow', '600', 'https://www.ikea.com'), ('2', 'toy shark', '1000', 'https://www.ikea.com'), ('2', 'alarm clock', '2000', 'https://www.ikea.com')
